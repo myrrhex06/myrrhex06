@@ -22,6 +22,8 @@
 <p align="center">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UIKit-1B1B1B?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-46AAF2?style=for-the-badge&logo=swift&logoColor=white"/>
   <br>
   
   <!-- Backend -->
