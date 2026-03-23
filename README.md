@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <strong>Profile Image Attribution</strong><br>
+  <strong>🖼️ Profile Image Attribution</strong><br>
   <a href="https://www.flaticon.com/free-icons/death" title="death icons">
     Death icons created by Freepik - Flaticon
   </a>
